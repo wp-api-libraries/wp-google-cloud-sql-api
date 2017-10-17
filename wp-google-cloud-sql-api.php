@@ -29,8 +29,47 @@ if ( ! class_exists( 'GoogleCloudSQLAPI' ) ) {
 		
 		/* BACKUP RUNS. */
 		
+		public function delete_backup_run() {
+			
+		}
+		
+		public function get_backup_run() {
+			
+		}
+		
+		public function insert_backup_run() {
+			
+		}
+		
+		public function get_backup_run() {
+			
+		}
 		
 		/* DATABASES. */
+		
+		public function delete_database() {
+			
+		}
+		
+		public function get_database() {
+			
+		}
+		
+		public function insert_database() {
+			
+		}
+		
+		public function list_database() {
+			
+		}
+		
+		public function patch_database() {
+			
+		}
+		
+		public function update_database() {
+			
+		}
 		
 		
 		/* FLAGS. */
